@@ -3,7 +3,7 @@
 
 # Ansible Galaxy role for installing and configuring Zabbix Agent2 on Windows Server
 
-![Build Status](https://github.com/M0rtm/ansible-role-win_zabbix_agent2/actions/workflows/ansible-galaxy-ci.yml/badge.svg)  
+[![Molecule test & Ansible-Galaxy CI](https://github.com/M0rtm/ansible-role_win_zabbix_agent2/actions/workflows/ansible-galaxy-ci.yml/badge.svg)](https://github.com/M0rtm/ansible-role_win_zabbix_agent2/actions/workflows/ansible-galaxy-ci.yml)
 [![Galaxy Role](https://img.shields.io/badge/Ansible--Galaxy-M0rtm.win_zabbix_agent2-blue.svg?logo=ansible&logoColor=white)](https://galaxy.ansible.com/M0rtm/win_zabbix_agent2/)
 
 This role helps to install and configure Zabbix Agent2 on Windows Server (2016/2019/2022).
